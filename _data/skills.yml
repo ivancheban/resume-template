@@ -1,12 +1,24 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: MadCap Flare
+  description: I used this help authoring tool extensively in different companies and projects. Built PDF and HML5 output. Created templates.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Confluence
+  description: I used this tool in almost every project. Created documentation and managed knowledge base. Used various macros.
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Git
+  description: GitHub, GitLab. Advanced user. Connected Git with madCap Flare and static site generators.
+
+# Digital content development and creation
+- skill: Jira
+  description: I used Jira for creating tasks, time tracking, scrum, kanban board.
+
+# Digital content development and creation
+- skill: Draw.io
+  description: I used this tool for drawing architectural diagrams.
+
+# Digital content development and creation
+- skill: Snagit
+  description: I used this tool for screenshots and video tutorials.

@@ -1,19 +1,19 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# EPAM
+- company: EPAM Systems, Kyiv
+  position: Senior Technical Writer
+  duration: 2018 &mdash; Present
+  summary: <b>Business Information and Media Project</b>	<ul class="resume-item-list"><li>Found the workaround to publish the MadCap Flare HTML5 output in SharePoint Online by mapping the SharePoint location as a network drive</li><li>Created GitLab group and branches for all technical writers on our project</li><li>Created the workflow and instructions to bind the MadCap project to the Git repository, commit/push/pull/merge changes and publish to SharePoint Online</li><li>Created user guides and video tutorial for the web portals to view and validate metadata</li><li>Created the project glossary in SharePoint and in MadCap Flare</li><li>Created a separate project in MadCap Flare and GitLab for the project Style Guide</li><li>Demonstrated the documentation portal capabilities and the team workflows for the leadership</li><li>Participated in the meetings with the leadership on behalf of all the team</li></ul><br /><b>Pharmaceuticals, Life Sciences & Healthcare Project</b>	<ul class="resume-item-list"><li>Wrote about MDM systems, ETL and DWH</li><li>Traveled to New York to work on-site for Discovery phase</li><li>Worked closely with the solution architect and assisted in writing the Solution Architecture Document</li><li>Learned about AWS, Redshift, Aurora, PostgreSQL, S3 buckets, Lambda, CloudWatch, CloudFormation, EC2, ELB, Airflow, Tomcat server, SemQL, Informatica Cloud, Spark, Parquet, domain model, logical data model</li><li>Worked with MadCap Flare, Confluence, GitHub, Draw.io</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Betlab
+- company: Betlab (Parimatch), Kyiv
+  position: Lead Technical Writer
+  duration:  2017 &mdash; 2018
+  summary: <ul class="resume-item-list"><li>Managed the team of three other technical writers acting as a team lead</li><li>Controlled the quality of documentation produced by other technical writers</li><li>Implemented localization for the project documentation using memoQ and MadCap Flare</li><li>Wrote technical documentation for the software products such as product concepts, user guides, quick start guides, SRS specifications</li><li>Described the system architecture in Confluence</li><li>Described APIs using Swagger and Open API in Confluence</li><li>Worked closely with the solution architect and lead developers</li><li>Created diagrams of system components interaction in draw.io</li></ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Technolex
+- company: Technolex Translation Studio, Kyiv
+  position: Translator/Editor
+  duration:   2014 &mdash; 2017
+  summary: <ul class="resume-item-list"><li>Translated projects in IT such as data storage, web-based systems, etc.</li><li>Worked as a full-time translator at Technolex Translation Studio (English-Russian-Ukrainian language pairs)</li><li>Translated and localized the projects for various customers (Microsoft, Google, Sony, Canon, Toshiba, AVG, Avast, Blackboard, GE, etc.)</li><li>Used the translation software extensively (SDL Trados, SDL Trados Studio, SDL MultiTerm, TagEditor, Translation Workspace XLIFF Editor, Alchemy Catalyst, Idiom, memoQ, MemSource Editor, Oddjob, Helium, Passolo Translator 2011, Xbench, etc.)</li></ul>
